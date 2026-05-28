@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OrderGenerator.Application/OrderGenerator.Application.csproj" />
+  <Project Path="OrderGenerator.Contract/OrderGenerator.Contract.csproj" />
+  <Project Path="OrderGenerator.Domain/OrderGenerator.Domain.csproj" />
+  <Project Path="OrderGenerator.WebAPI\OrderGenerator.WebAPI.csproj" />
+</Solution>
